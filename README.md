@@ -9,3 +9,5 @@
 [Lab 04:](https://github.com/2303A51626/sri-charitha-AIML-2025/blob/main/lab_4%20(3).ipynb) Implement Linear Regression using Boston Housing Data
 
 [Lab 05:](https://github.com/2303A51626/sri-charitha-AIML-2025/blob/main/lab-05.ipynb) Implement Logistic Regression using Titanic Ship Data
+
+[Lab 06:](https://github.com/2303A51626/sri-charitha-AIML-2025/blob/main/lab_6%20(2).ipynb) 
