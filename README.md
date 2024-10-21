@@ -15,4 +15,4 @@
 
 [Lab 07:](https://github.com/2303A51626/sri-charitha-AIML-2025/blob/main/Lab_7.ipynb) 
 
-[Lab 08:]() 
+[Lab 08:](https://github.com/2303A51626/sri-charitha-AIML-2025/blob/main/Lab_08.ipynb) 
